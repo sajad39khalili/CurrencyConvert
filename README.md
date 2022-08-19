@@ -4,5 +4,8 @@
 
 ![GitHub Logo](/Images/Untitled.png)
 
+
 از USD  به CAD   مستقیم
+
 از USD  به GBP   غیر مستقیم
+
