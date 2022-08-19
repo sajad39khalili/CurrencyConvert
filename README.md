@@ -2,4 +2,4 @@
 
 برای تبدیل ارز ها دو نوع وجود دارد 1-مستقیم 2-غیر مستقیم
 
-![GitHub Logo](/images/Untitled.jpg)
+(images/Untitled.jpg)
